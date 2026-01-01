@@ -5,6 +5,8 @@
 # windows 8.1 core
 XHQ8N-C3MCJ-RQXB6-WCHYG-C9WKB
 
-# win 10 (2015)
+# win 10 home (2015)
 
+
+# win 10 home (2015)
  
