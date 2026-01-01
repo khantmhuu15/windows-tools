@@ -1,4 +1,4 @@
-# windows-tools in realese
+# windows-tools in release
 
 
 # windows installer keys
